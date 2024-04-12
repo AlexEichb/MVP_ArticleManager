@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QdFie3LVv5N33ygvT6+j80atDtE8KCh6dUY6IsqXon18wWm6nHC0KbukpuPoxtBuREV6D7rITYyWIVeP5Us1UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Sonstiges\\SWE2UE\\SWE2UE_MVP_ArticleManager\\SWE2UE_MVP_ArticleManager\\SWE2UE_MVP_ArticleManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
