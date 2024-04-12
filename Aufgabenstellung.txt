@@ -1,0 +1,20 @@
+Ziel dieser Übung ist es das MVP-Pattern anhand einer Artikelverwaltung anzuwenden und kennenzulernen.
+
+Folgende Funktionen sollen integriert werden:
+- Anzeigen einer Datensatzliste
+- Anlegen von neuen Datensätzen
+- Anzeigen und editieren eines Datensatzes
+Optional:
+	- Einlesen von Datensätzen aus Datei
+	- Ausgabe von Datensätzen in Datei
+
+Datensatz muss folgende Informationen haben:
+- Artikelnummer, Bezeichnung, Kurzbeschreibung, Kategorie, Preis, Lagerstand
+
+
+Herangehensweise:
+- Klassendiagramm erstellen
+- GUI Entwerfen
+- Erarbeitung der Kommunikationswege und EventHandler
+- Estellen des Detailfensters und des Hauptfensters
+- Einrichten der Kommunikation
